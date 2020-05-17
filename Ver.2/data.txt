@@ -1,0 +1,12 @@
+MenuName	Price
+Espresso	2000
+Americano	2500
+Milk Tea	3000
+Cappuccino	3500
+Cafe Latte	3500
+Cafe Mocha	3500
+Dolce Latte	3500
+Cold Brew	4000
+Chocolate	4500
+Affogato	5000
+BUUUUUUG	10000
