@@ -14,3 +14,16 @@
 
 
 ## Class
+
+There are five class in this program.   
+> __cafeDemo__ : The class for managing the flow of this program.  
+> __Manager__ : The class for manager.  
+> __Customer__ : The class for customer.  
+> __Menu__ : The class for menu information.  
+> __Info__ : The class for all of the information of the cafe.
+
+### cafeDemo
+### Manger
+### Customer
+### Menu
+### Info
